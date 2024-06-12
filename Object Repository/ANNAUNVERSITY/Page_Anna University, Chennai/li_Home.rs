@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Home</name>
+   <tag></tag>
+   <elementGuidId>a4b0360f-9570-446a-b460-f05092ecaef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/header/div/div/div/div/div[2]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Home&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf8af174-e7a6-466f-9625-4ba72eea35fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Home</value>
+      <webElementGuid>5de0ff29-f436-4545-bc6a-263d6c49ae85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header&quot;]/div[@class=&quot;sticky-header main-bar-wraper navbar-expand-lg&quot;]/div[@class=&quot;main-bar clearfix&quot;]/div[@class=&quot;top-bar&quot;]/div[@class=&quot;row d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;col-lg-9 dlab-topbar-right text-center&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>1a4f5857-8ca8-44dd-8aed-c4df46cab34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/header/div/div/div/div/div[2]/ul/li</value>
+      <webElementGuid>1e55bd09-2eab-4727-b804-41b032e3fa15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Translate'])[1]/following::li[1]</value>
+      <webElementGuid>3d3e5c9d-831e-4da9-a72b-0ee91be4cab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/preceding::li[1]</value>
+      <webElementGuid>8dc9c336-3b10-4a88-b149-8eef6e93579a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>f97191cd-1643-44dc-8cf8-de290f2cec61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' Home' or . = ' Home')]</value>
+      <webElementGuid>e4f3b37f-65b2-4e26-a70f-bf9c4b5b5633</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

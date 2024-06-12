@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_AlumniCorporate(CEGACTMITSAP)</name>
+   <tag></tag>
+   <elementGuidId>a10f8d7c-afb5-4b43-8e8f-b3524d1d8020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='bg']/div/header/div/div/div[2]/button[2]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Alumni/Corporate (CEG/ACT/MIT/SAP)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>3a81c11a-dad0-4ff8-868a-d815cba39cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alumni/Corporate(CEG/ACT/MIT/SAP)</value>
+      <webElementGuid>531f0b50-28f4-4b35-87ca-d83e14bf5e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@class=&quot;page-wraper&quot;]/header[@class=&quot;site-header mo-left header&quot;]/div[@class=&quot;sticky-header main-bar-wraper navbar-expand-lg is-fixed&quot;]/div[@class=&quot;main-bar clearfix&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;btn&quot;]/a[1]/b[1]</value>
+      <webElementGuid>a713f142-930b-49c2-96a7-306827c9ee85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='bg']/div/header/div/div/div[2]/button[2]/a/b</value>
+      <webElementGuid>dd1684eb-5f8e-4fdc-86e7-775c06d050f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::b[1]</value>
+      <webElementGuid>d459c32a-c2b8-49aa-a159-284b1730a13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RCC'])[1]/following::b[1]</value>
+      <webElementGuid>46108cd3-05c9-42b3-9438-b116a724d2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sustainability'])[1]/preceding::b[1]</value>
+      <webElementGuid>ea5dcc7e-88d5-48c7-a4e8-faf1dd086749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CEAP 2024(M.E./M.Tech./M.Arch./M.Plan.)'])[1]/preceding::b[2]</value>
+      <webElementGuid>c91684bc-eb19-4c40-8937-194bde4eab7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alumni/Corporate']/parent::*</value>
+      <webElementGuid>b7a26bcf-d205-4029-86b0-e5eff9eaf324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>6d8b10ca-53a2-4668-824a-9628ca861bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Alumni/Corporate(CEG/ACT/MIT/SAP)' or . = 'Alumni/Corporate(CEG/ACT/MIT/SAP)')]</value>
+      <webElementGuid>c736648c-a985-4df8-8888-5a36e7c695f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

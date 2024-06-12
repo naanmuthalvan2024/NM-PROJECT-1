@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NEWS ROOM</name>
+   <tag></tag>
+   <elementGuidId>2e88a571-d734-4619-83e6-4f1e28825b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='aboutus']/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;NEWS ROOM&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3638d9c6-fe2f-4015-82b7-1cf380520177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-header</value>
+      <webElementGuid>2978c352-b505-4d73-8428-e84b8bf22cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEWS ROOM</value>
+      <webElementGuid>a5e9126c-c699-4cd2-85b4-66a6a0cc7b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bg&quot;)/div[@id=&quot;aboutus&quot;]/div[@id=&quot;aboutus&quot;]/div[@class=&quot;row service-area-one&quot;]/div[@class=&quot;col-lg-3&quot;]/div[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]</value>
+      <webElementGuid>abca453b-8a60-4e56-b56c-2f477a1240ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='aboutus']/div/div[3]/div/div/div</value>
+      <webElementGuid>ac69505d-b678-4d28-a23e-9e4fee7835d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='th'])[9]/following::div[4]</value>
+      <webElementGuid>d8cac6e2-0152-49b2-9814-9f2c56374e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rd'])[4]/following::div[4]</value>
+      <webElementGuid>e2c52db0-c338-4b7f-8fd8-41216caca725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/div</value>
+      <webElementGuid>0f54b1ec-ac1f-4da8-a6e0-1f31bf08c760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NEWS ROOM' or . = 'NEWS ROOM')]</value>
+      <webElementGuid>682985e1-961a-491a-82ce-397925d4b00c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

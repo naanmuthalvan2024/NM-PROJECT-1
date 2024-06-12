@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7d0dac13-59d4-4971-96a0-fcb0268a43d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[5]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5) > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Dr.B.Suresh Ph.D. University Librarian Dr.T.P.M.Library has the second largest collections among University Libraries in Tamilnadu Library Working Hours Week Days : 8:00am to 8:00pm Saturdays and Sundays : 10:00am to 5:00pm Dr.T.P.Meenakshi Sundaranar&quot;i] >> internal:role=img >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3d4f8a49-08f4-419d-a22a-13371c097935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/quote.jpg</value>
+      <webElementGuid>f586c49c-2ae3-45a9-aec7-a8fd7ced5c96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/center[1]/div[2]/table[2]/tbody[1]/tr[1]/td[5]/img[1]</value>
+      <webElementGuid>bca2eac7-6eb6-45f6-8fb8-1b93abe4c960</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/img</value>
+      <webElementGuid>f7206082-e01a-40ac-8b8b-2095b4c2d893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/quote.jpg']</value>
+      <webElementGuid>bf0c46b4-4be2-416e-9758-597113888ba3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
